@@ -5,7 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/c1005902/Documents/GitHub/screamy-creamy/GameJameCream/Content/StarterContent/Audio/Collapse01.uasset"
+				"C:/Users/c1005902/Documents/GitHub/screamy-creamy/GameJameCream/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/c1005902/Documents/GitHub/screamy-creamy/GameJameCream/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/c1005902/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Blueprints/RubberDuck_BP.uasset",
+				"C:/Users/c1005902/Documents/GitHub/screamy-creamy/GameJameCream/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/c1005902/Documents/GitHub/screamy-creamy/GameJameCream/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/c1005902/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Models/GnomusEggington.uasset",
+				"C:/Users/c1005902/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Models/GnomusEggington_PhysicsAsset.uasset",
+				"C:/Users/c1005902/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Models/GnomusEggington_Skeleton.uasset",
+				"C:/Users/c1005902/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Models/standardSurface1.uasset",
+				"C:/Users/c1005902/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/GnomusEggington_Static.uasset",
+				"C:/Users/c1005902/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Models/GnomusEggington_Static.uasset",
+				"C:/Users/c1005902/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Blueprints/GnomePickup_BP.uasset",
+				"C:/Users/c1005902/Documents/GitHub/screamy-creamy/GameJameCream/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JD/VLSOHH9EOU092WUP9G2R3X.uasset",
+				"C:/Users/c1005902/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Blueprints/Interfaces/InteractInterface_Int.uasset"
 			]
 		}
 	]
