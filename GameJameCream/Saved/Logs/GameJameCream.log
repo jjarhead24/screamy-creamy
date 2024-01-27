@@ -9457,3 +9457,747 @@ Make sure 'NPCThings_C' has been compiled for  Get CharacterSkinArray
 [2024.01.27-13.40.31:438][806]LogContentValidation: Display: Validating /Game/MyStuff/Blueprints/NPCThings.NPCThings_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NPCThings_C_UAID_30D042E9208693D301_1100075858
 [2024.01.27-13.40.31:438][806]LogContentValidation: Display: Validating /Game/MyStuff/Blueprints/NPCThings.NPCThings_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NPCThings_C_UAID_30D042E9208693D301_1099170857
 [2024.01.27-13.40.31:438][806]LogContentValidation: Display: Validating /Game/MyStuff/Blueprints/NPCThings.NPCThings_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NPCThings_C_UAID_30D042E9208693D301_1098012856
+[2024.01.27-13.47.53:599][277]LogEditorTransaction: Undo Add Node
+[2024.01.27-13.48.39:067][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.01.27-13.48.39:069][876]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.022
+[2024.01.27-13.48.39:070][876]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.01.27-13.48.39:098][876]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.01.27-13.48.39:098][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.01.27-13.48.39:123][876]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto8
+[2024.01.27-13.48.39:124][876]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/BP_FirstPersonCharacter_Auto83AD8D6D345612E47F825698A3139CBCE.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto8.uasset'
+[2024.01.27-13.48.39:129][876]LogFileHelpers: Auto-saving content packages took 0.059
+[2024.01.27-13.53.27:871][261]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.27-13.53.27:877][261]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.27-13.53.27:878][261]LogWorldPartition: Display: GenerateStreaming started...
+[2024.01.27-13.53.27:878][261]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.01.27-13.53.27:878][261]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 369 us)
+[2024.01.27-13.53.27:878][261]LogWorldPartition: Display: GenerateStreaming took 204 us (total: 10 ms)
+[2024.01.27-13.53.27:879][261]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.27-13.53.27:882][261]LogPlayLevel: [PlayLevel] Compiling FirstPerson_AnimBP before play...
+[2024.01.27-13.53.27:894][261]LogPlayLevel: [PlayLevel]   Compiling BP_FirstPersonCharacter as a dependent...
+[2024.01.27-13.53.28:082][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.01.27-13.53.28:088][261]LogPlayLevel: PlayLevel: Blueprint regeneration took 209 ms (2 blueprints)
+[2024.01.27-13.53.28:088][261]PIE: New page: PIE session: FirstPersonMap (27 Jan 2024, 13:53:28)
+[2024.01.27-13.53.28:089][261]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.27-13.53.28:094][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005145s)
+[2024.01.27-13.53.28:094][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005174s)
+[2024.01.27-13.53.28:094][261]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.53.28:094][261]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.53.28:094][261]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.27-13.53.28:095][261]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.27-13.53.28:095][261]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.27-13.53.28:095][261]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.01.27-13.53.28:096][261]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.27-13.53.28:096][261]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 381 ms)
+[2024.01.27-13.53.28:096][261]LogPlayLevel: PIE: World Init took: (0.002182s)
+[2024.01.27-13.53.28:113][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.01.27-13.53.28:114][261]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2024.01.27-13.53.28:114][261]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-13.53.28:114][261]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-13.53.28:114][261]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-13.53.28:114][261]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-13.53.28:114][261]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.27-13.53.28:114][261]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.27-13.53.28:115][261]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.27-13.53.28:115][261]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-13.53.28:115][261]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-13.53.28:115][261]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-13.53.28:115][261]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-13.53.28:117][261]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-13.53.28:124][261]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.27-13.53.28:124][261]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-13.53.28:124][261]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-13.53.28:124][261]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-13.53.28:125][261]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2024.01.27-13.53.28:125][261]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2024.01.27-13.53.28:126][261]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2024.01.27-13.53.28:126][261]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2024.01.27-13.53.28:126][261]LogInit: FAudioDevice initialized with ID 55.
+[2024.01.27-13.53.28:126][261]LogAudio: Display: Audio Device (ID: 55) registered with world 'FirstPersonMap'.
+[2024.01.27-13.53.28:126][261]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2024.01.27-13.53.28:183][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-13.53.28:183][261]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.27-13.53.28:186][261]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.27-13.53.28
+[2024.01.27-13.53.28:187][261]LogWorld: Bringing up level for play took: 0.003564
+[2024.01.27-13.53.28:189][261]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2024.01.27-13.53.28:194][261]PIE: Server logged in
+[2024.01.27-13.53.28:196][261]PIE: Play in editor total start time 0.319 seconds.
+[2024.01.27-13.53.28:218][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.53.28:219][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.53.28:219][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.53.28:219][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.53.28:220][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.53.28:221][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.53.28:221][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.53.28:221][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.53.28:225][261]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.01.27-13.53.28:387][262]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.53.28:387][262]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.53.28:387][262]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.53.28:388][262]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.53.28:388][262]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.53.28:388][262]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.53.28:389][262]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.53.28:389][262]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.53.45:368][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-13.53.45:369][127]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.27-13.53.45:370][127]LogSlate: Window 'GameJameCream Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.01.27-13.53.45:377][127]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.53.45:378][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.53.45:378][127]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.27-13.53.45:383][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-13.53.45:387][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.53.45:408][127]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2024.01.27-13.53.45:408][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.01.27-13.53.45:409][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.01.27-13.53.45:416][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.01.27-13.53.45:481][128]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2024.01.27-13.56.25:902][260]LogInterchangeEngine: [Pending] Importing
+[2024.01.27-13.56.25:902][260]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/c09996...racters-3/SkinssurvivorFemaleA.png]
+[2024.01.27-13.56.25:902][260]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.01.27-13.56.25:903][260]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.01.27-13.56.25:903][260]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.01.27-13.56.25:919][261]LogTexture: Display: Building textures: /Game/MyStuff/Materials/Human_Skins/survivorFemaleA.survivorFemaleA (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.01.27-13.56.25:927][261]LogInterchangeEngine: [Success] Import Done
+[2024.01.27-13.56.25:928][261]LogInterchangeEngine: [Pending] Importing
+[2024.01.27-13.56.25:928][261]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/c09996...racters-3/SkinssurvivorMaleB.png]
+[2024.01.27-13.56.25:928][261]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.01.27-13.56.25:934][261]LogInterchangeEngine: [Success] Import Done
+[2024.01.27-13.56.25:947][261]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.01.27-13.56.26:015][262]LogTexture: Display: Building textures: /Game/MyStuff/Materials/Human_Skins/survivorMaleB.survivorMaleB (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.01.27-13.56.26:016][262]LogInterchangeEngine: [Success] Import Done
+[2024.01.27-13.56.26:016][262]LogInterchangeEngine: [Pending] Importing
+[2024.01.27-13.56.26:016][262]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/c09996...racters-3/SkinszombieA.png]
+[2024.01.27-13.56.26:016][262]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.01.27-13.56.26:116][263]LogTexture: Display: Building textures: /Game/MyStuff/Materials/Human_Skins/zombieA.zombieA (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.01.27-13.56.26:128][263]LogInterchangeEngine: [Success] Import Done
+[2024.01.27-13.56.26:128][263]LogInterchangeEngine: [Pending] Importing
+[2024.01.27-13.56.26:128][263]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/c09996...racters-3/SkinszombieC.png]
+[2024.01.27-13.56.26:145][263]LogInterchangeEngine: [Success] Import Done
+[2024.01.27-13.56.26:145][263]LogTexture: Display: Building textures: /Game/MyStuff/Materials/Human_Skins/zombieC.zombieC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.01.27-13.56.26:194][263]LogInterchangeEngine: [Success] Import Done
+[2024.01.27-13.56.26:211][263]LogInterchangeEngine: [Success] Import Done
+[2024.01.27-13.56.26:228][263]LogInterchangeEngine: [Success] Import Done
+[2024.01.27-13.56.34:811][833]LogDerivedDataCache: C:/Users/c0999686/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.036 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1426 files in 2167 folders with total size 91 MiB.
+[2024.01.27-13.56.52:287][ 26]LogContentBrowser: Deferred new asset file creation: survivorFemaleA_Mat
+[2024.01.27-13.56.52:314][ 26]LogContentBrowser: Creating deferred item: survivorFemaleA_Mat
+[2024.01.27-13.56.52:335][ 27]LogContentBrowser: Renaming the item being created (Deferred Item: survivorFemaleA_Mat).
+[2024.01.27-13.56.53:856][126]LogContentBrowser: Attempting asset rename: survivorFemaleA_Mat -> survivorFemaleA_Mat
+[2024.01.27-13.56.53:862][126]LogContentBrowser: End creating deferred item survivorFemaleA_Mat
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: ================================================
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: Total job queries 4,152, among them cache hits 62 (1.49%)
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: Tracking 4,058 distinct input hashes that result in 2,574 distinct outputs (63.43%)
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: RAM used: 70.85 MiB of 1.60 GiB budget. Usage: 4.32%
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: Shaders Compiled: 4,058
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: Jobs assigned 4,060, completed 4,058 (99.95%)
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: Average time worker was idle: 62.48 s
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: Time job spent in pending queue: average 72.11 s, longest 181.04 s
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: Job execution time: average 3.88 s, max 10.63 s
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: Job life time (pending + execution): average 76.03 s, max 183.76
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 253.62 s
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: Jobs were issued in 750 batches (only local compilation was used), average 5.41 jobs/batch
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: Average processing rate: 16.00 jobs/sec
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: Total thread time: 1,781.384 s
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: Total thread preprocess time: 57.655 s
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: Percentage time preprocessing: 3.24%
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: Effective parallelization: 7.02 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.27 sec, max 3.99 sec, min 2.21 sec)
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.20 sec, max 5.69 sec, min 1.13 sec)
+[2024.01.27-13.56.54:407][151]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.27 sec, max 1.89 sec, min 0.68 sec)
+[2024.01.27-13.56.54:408][151]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 1.21 sec, max 1.21 sec, min 1.21 sec)
+[2024.01.27-13.56.54:408][151]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 1.14 sec, max 1.14 sec, min 1.14 sec)
+[2024.01.27-13.56.54:408][151]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.27-13.56.54:408][151]LogShaderCompilers: Display:                                             FDeferredLightPS - 8.76% of total time (compiled  150 times, average 1.04 sec, max 1.38 sec, min 0.79 sec)
+[2024.01.27-13.56.54:408][151]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.52% of total time (compiled   96 times, average 0.84 sec, max 1.32 sec, min 0.57 sec)
+[2024.01.27-13.56.54:408][151]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.78% of total time (compiled   96 times, average 0.70 sec, max 0.96 sec, min 0.38 sec)
+[2024.01.27-13.56.54:408][151]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 3.75% of total time (compiled  128 times, average 0.52 sec, max 0.78 sec, min 0.31 sec)
+[2024.01.27-13.56.54:408][151]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 3.60% of total time (compiled  128 times, average 0.50 sec, max 0.65 sec, min 0.37 sec)
+[2024.01.27-13.56.54:408][151]LogShaderCompilers: Display: ================================================
+[2024.01.27-13.57.09:793][182]LogContentBrowser: Deferred new asset file creation: survivorMaleB_Mat
+[2024.01.27-13.57.09:830][182]LogContentBrowser: Creating deferred item: survivorMaleB_Mat
+[2024.01.27-13.57.09:868][183]LogContentBrowser: Renaming the item being created (Deferred Item: survivorMaleB_Mat).
+[2024.01.27-13.57.10:863][240]LogContentBrowser: Attempting asset rename: survivorMaleB_Mat -> survivorMaleB_Mat
+[2024.01.27-13.57.10:869][240]LogContentBrowser: End creating deferred item survivorMaleB_Mat
+[2024.01.27-13.57.16:481][570]LogContentBrowser: Deferred new asset file creation: zombieA_Mat
+[2024.01.27-13.57.16:514][570]LogContentBrowser: Creating deferred item: zombieA_Mat
+[2024.01.27-13.57.16:536][571]LogContentBrowser: Renaming the item being created (Deferred Item: zombieA_Mat).
+[2024.01.27-13.57.17:552][634]LogContentBrowser: Attempting asset rename: zombieA_Mat -> zombieA_Mat
+[2024.01.27-13.57.17:558][634]LogContentBrowser: End creating deferred item zombieA_Mat
+[2024.01.27-13.57.22:482][907]LogContentBrowser: Deferred new asset file creation: zombieC_Mat
+[2024.01.27-13.57.22:514][907]LogContentBrowser: Creating deferred item: zombieC_Mat
+[2024.01.27-13.57.22:536][908]LogContentBrowser: Renaming the item being created (Deferred Item: zombieC_Mat).
+[2024.01.27-13.57.23:004][937]LogContentBrowser: Attempting asset rename: zombieC_Mat -> zombieC_Mat
+[2024.01.27-13.57.23:010][937]LogContentBrowser: End creating deferred item zombieC_Mat
+[2024.01.27-13.57.41:029][183]BlueprintLog: New page: Compile NPCThings
+[2024.01.27-13.57.41:112][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.01.27-13.58.03:722][283]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.27-13.58.03:727][283]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.27-13.58.03:728][283]LogWorldPartition: Display: GenerateStreaming started...
+[2024.01.27-13.58.03:728][283]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.01.27-13.58.03:728][283]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 377 us)
+[2024.01.27-13.58.03:728][283]LogWorldPartition: Display: GenerateStreaming took 183 us (total: 10 ms)
+[2024.01.27-13.58.03:729][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.27-13.58.03:729][283]PIE: New page: PIE session: FirstPersonMap (27 Jan 2024, 13:58:03)
+[2024.01.27-13.58.03:729][283]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.27-13.58.03:735][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005756s)
+[2024.01.27-13.58.03:735][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005788s)
+[2024.01.27-13.58.03:735][283]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.58.03:735][283]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.58.03:735][283]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.27-13.58.03:736][283]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.27-13.58.03:736][283]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.27-13.58.03:736][283]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.01.27-13.58.03:737][283]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.27-13.58.03:737][283]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 382 ms)
+[2024.01.27-13.58.03:737][283]LogPlayLevel: PIE: World Init took: (0.002491s)
+[2024.01.27-13.58.03:757][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.01.27-13.58.03:759][283]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2024.01.27-13.58.03:759][283]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-13.58.03:759][283]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-13.58.03:759][283]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-13.58.03:759][283]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-13.58.03:759][283]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.27-13.58.03:759][283]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.27-13.58.03:759][283]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.27-13.58.03:759][283]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-13.58.03:760][283]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-13.58.03:760][283]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-13.58.03:760][283]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-13.58.03:762][283]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-13.58.03:770][283]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.27-13.58.03:770][283]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-13.58.03:770][283]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-13.58.03:770][283]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-13.58.03:771][283]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2024.01.27-13.58.03:771][283]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2024.01.27-13.58.03:772][283]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2024.01.27-13.58.03:772][283]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2024.01.27-13.58.03:772][283]LogInit: FAudioDevice initialized with ID 56.
+[2024.01.27-13.58.03:772][283]LogAudio: Display: Audio Device (ID: 56) registered with world 'FirstPersonMap'.
+[2024.01.27-13.58.03:772][283]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2024.01.27-13.58.03:818][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-13.58.03:818][283]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.27-13.58.03:821][283]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.27-13.58.03
+[2024.01.27-13.58.03:822][283]LogWorld: Bringing up level for play took: 0.003337
+[2024.01.27-13.58.03:824][283]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2024.01.27-13.58.03:829][283]PIE: Server logged in
+[2024.01.27-13.58.03:831][283]PIE: Play in editor total start time 0.104 seconds.
+[2024.01.27-13.58.03:834][283]LogMaterial: Display: Material /Game/MyStuff/Materials/Human_Skins/zombieA_Mat.zombieA_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.27-13.58.03:861][283]LogMaterial: Display: Material /Game/MyStuff/Materials/Human_Skins/survivorFemaleA_Mat.survivorFemaleA_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.27-13.58.03:925][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.58.03:925][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.58.03:926][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.58.03:926][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.58.03:927][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.58.03:927][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.58.03:927][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.58.03:928][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.58.03:932][283]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.01.27-13.58.04:000][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.58.04:001][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.58.04:001][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.58.04:001][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.58.04:002][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.58.04:003][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.58.04:003][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.58.04:003][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-13.58.13:817][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-13.58.13:817][151]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.27-13.58.13:818][151]LogSlate: Window 'GameJameCream Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.01.27-13.58.13:827][151]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-13.58.13:827][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.58.13:827][151]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.27-13.58.13:831][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-13.58.13:834][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-13.58.13:854][151]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.27-13.58.13:854][151]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2024.01.27-13.58.13:855][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2024.01.27-13.58.13:856][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2024.01.27-13.58.13:863][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.27-13.58.13:923][152]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2024.01.27-13.59.06:760][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.27-13.59.06:763][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/YF/FHCA9FNOIV1ALG19YHF37C_Auto9
+[2024.01.27-13.59.06:763][861]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/FHCA9FNOIV1ALG19YHF37C_Auto958EDE2A34187FE1D49DF619A5C15A268.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/YF/FHCA9FNOIV1ALG19YHF37C_Auto9.uasset'
+[2024.01.27-13.59.06:765][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/C2/O2RLJWBAIWQ7MV67YG8CYB_Auto9
+[2024.01.27-13.59.06:765][861]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/O2RLJWBAIWQ7MV67YG8CYB_Auto953ECAB1E4E6A1F01E7CC4C90C13C6B40.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/C2/O2RLJWBAIWQ7MV67YG8CYB_Auto9.uasset'
+[2024.01.27-13.59.06:766][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/1U/RNKRYTA05L60GJ4J6KJ401_Auto9
+[2024.01.27-13.59.06:766][861]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/RNKRYTA05L60GJ4J6KJ401_Auto90E886C0E4E431DF1722BD9AE6D068314.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/1U/RNKRYTA05L60GJ4J6KJ401_Auto9.uasset'
+[2024.01.27-13.59.06:768][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/HP/044XQSEQDUOZ1AW7X2RXMW_Auto9
+[2024.01.27-13.59.06:768][861]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/044XQSEQDUOZ1AW7X2RXMW_Auto9D02EC240444F9A8C9941219D4886E29C.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/HP/044XQSEQDUOZ1AW7X2RXMW_Auto9.uasset'
+[2024.01.27-13.59.06:769][861]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.030
+[2024.01.27-13.59.06:769][861]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2024.01.27-13.59.06:769][861]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.01.27-13.59.06:786][861]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.01.27-13.59.06:786][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.01.27-13.59.06:813][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto9
+[2024.01.27-13.59.06:814][861]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/BP_FirstPersonCharacter_Auto9C371D66E47C4C90B9DDDF0BC21459BCD.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto9.uasset'
+[2024.01.27-13.59.06:815][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/Blueprints/NPCThings] ([2] browsable assets)...
+[2024.01.27-13.59.06:820][861]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyStuff/Blueprints/NPCThings.NPCThings]
+[2024.01.27-13.59.06:820][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Blueprints/NPCThings]
+[2024.01.27-13.59.06:827][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/Blueprints/NPCThings_Auto9
+[2024.01.27-13.59.06:827][861]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/NPCThings_Auto9455C5FC3420862C17E3A07A43FDA4156.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/MyStuff/Blueprints/NPCThings_Auto9.uasset'
+[2024.01.27-13.59.06:828][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/Materials/Human_Skins/survivorFemaleA] ([1] browsable assets)...
+[2024.01.27-13.59.06:831][861]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyStuff/Materials/Human_Skins/survivorFemaleA.survivorFemaleA]
+[2024.01.27-13.59.06:831][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Materials/Human_Skins/survivorFemaleA]
+[2024.01.27-13.59.06:833][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/Materials/Human_Skins/survivorFemaleA_Auto9
+[2024.01.27-13.59.06:833][861]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/survivorFemaleA_Auto935CCA0A14815A62C5D246EA6872194F8.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/MyStuff/Materials/Human_Skins/survivorFemaleA_Auto9.uasset'
+[2024.01.27-13.59.06:834][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/Materials/Human_Skins/survivorMaleB] ([1] browsable assets)...
+[2024.01.27-13.59.06:836][861]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyStuff/Materials/Human_Skins/survivorMaleB.survivorMaleB]
+[2024.01.27-13.59.06:836][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Materials/Human_Skins/survivorMaleB]
+[2024.01.27-13.59.06:839][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/Materials/Human_Skins/survivorMaleB_Auto9
+[2024.01.27-13.59.06:839][861]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/survivorMaleB_Auto98A47637245C2ADC59A014DAE38028C7C.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/MyStuff/Materials/Human_Skins/survivorMaleB_Auto9.uasset'
+[2024.01.27-13.59.06:839][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/Materials/Human_Skins/zombieA] ([1] browsable assets)...
+[2024.01.27-13.59.06:841][861]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyStuff/Materials/Human_Skins/zombieA.zombieA]
+[2024.01.27-13.59.06:841][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Materials/Human_Skins/zombieA]
+[2024.01.27-13.59.06:844][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/Materials/Human_Skins/zombieA_Auto9
+[2024.01.27-13.59.06:844][861]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/zombieA_Auto9633999C74BCC8259DBFEB3939F4E9501.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/MyStuff/Materials/Human_Skins/zombieA_Auto9.uasset'
+[2024.01.27-13.59.06:845][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/Materials/Human_Skins/zombieC] ([1] browsable assets)...
+[2024.01.27-13.59.06:846][861]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyStuff/Materials/Human_Skins/zombieC.zombieC]
+[2024.01.27-13.59.06:846][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Materials/Human_Skins/zombieC]
+[2024.01.27-13.59.06:849][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/Materials/Human_Skins/zombieC_Auto9
+[2024.01.27-13.59.06:849][861]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/zombieC_Auto954930BBE491C95BFEB9F8086C874369C.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/MyStuff/Materials/Human_Skins/zombieC_Auto9.uasset'
+[2024.01.27-13.59.06:850][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/Materials/Human_Skins/survivorFemaleA_Mat] ([1] browsable assets)...
+[2024.01.27-13.59.06:856][861]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyStuff/Materials/Human_Skins/survivorFemaleA_Mat.survivorFemaleA_Mat]
+[2024.01.27-13.59.06:856][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Materials/Human_Skins/survivorFemaleA_Mat]
+[2024.01.27-13.59.06:857][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/Materials/Human_Skins/survivorFemaleA_Mat_Auto9
+[2024.01.27-13.59.06:857][861]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/survivorFemaleA_Mat_Auto90C3C54684EEC2125EFF301B11F2E390E.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/MyStuff/Materials/Human_Skins/survivorFemaleA_Mat_Auto9.uasset'
+[2024.01.27-13.59.06:858][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/Materials/Human_Skins/survivorMaleB_Mat] ([1] browsable assets)...
+[2024.01.27-13.59.08:102][861]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyStuff/Materials/Human_Skins/survivorMaleB_Mat.survivorMaleB_Mat]
+[2024.01.27-13.59.08:102][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Materials/Human_Skins/survivorMaleB_Mat]
+[2024.01.27-13.59.08:103][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/Materials/Human_Skins/survivorMaleB_Mat_Auto9
+[2024.01.27-13.59.08:103][861]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/survivorMaleB_Mat_Auto962B3FD6F40CCCDB1DB0B8DB5F14D8BB5.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/MyStuff/Materials/Human_Skins/survivorMaleB_Mat_Auto9.uasset'
+[2024.01.27-13.59.08:104][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/Materials/Human_Skins/zombieA_Mat] ([1] browsable assets)...
+[2024.01.27-13.59.08:109][861]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyStuff/Materials/Human_Skins/zombieA_Mat.zombieA_Mat]
+[2024.01.27-13.59.08:109][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Materials/Human_Skins/zombieA_Mat]
+[2024.01.27-13.59.08:111][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/Materials/Human_Skins/zombieA_Mat_Auto9
+[2024.01.27-13.59.08:111][861]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/zombieA_Mat_Auto93C533F1947B2D6D863AC64AD8901A34C.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/MyStuff/Materials/Human_Skins/zombieA_Mat_Auto9.uasset'
+[2024.01.27-13.59.08:112][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/Materials/Human_Skins/zombieC_Mat] ([1] browsable assets)...
+[2024.01.27-13.59.09:263][861]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyStuff/Materials/Human_Skins/zombieC_Mat.zombieC_Mat]
+[2024.01.27-13.59.09:263][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Materials/Human_Skins/zombieC_Mat]
+[2024.01.27-13.59.09:265][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/Materials/Human_Skins/zombieC_Mat_Auto9
+[2024.01.27-13.59.09:265][861]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/zombieC_Mat_Auto92324BE744ACF050E966D65AA1F6FC303.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/MyStuff/Materials/Human_Skins/zombieC_Mat_Auto9.uasset'
+[2024.01.27-13.59.09:265][861]LogFileHelpers: Auto-saving content packages took 2.496
+[2024.01.27-13.59.54:031][117]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.17.92:55800, Sequence=0
+[2024.01.27-13.59.54:031][117]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.17.92:55800, Sequence=0
+[2024.01.27-13.59.59:539][502]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.27-13.59.59:551][502]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.27-13.59.59:559][502]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.27-13.59.59:572][503]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.01.27-14.00.13:990][ 31]LogContentBrowser: Attempting asset rename: NewBlueprint -> Time_Extenders_BP
+[2024.01.27-14.00.13:995][ 31]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.27-14.01.55:452][ 62]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.27-14.01.55:474][ 62]LogBlueprint: Error: [AssetLog] C:\Users\c0999686\Documents\GitHub\screamy-creamy\GameJameCream\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Invalid pin connection from  Array  and  Out Actors : Array of Gnome Pickup BP Object References is not compatible with Array of Time Extenders BP Object References. (You may have changed the type after the connections were made)
+[2024.01.27-14.01.55:478][ 62]LogBlueprint: Error: [AssetLog] C:\Users\c0999686\Documents\GitHub\screamy-creamy\GameJameCream\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Gnome Pickup BP Object References is not compatible with Array of Time Extenders BP Object References.' at  Get (a copy) generated from expanding For Each Loop
+[2024.01.27-14.01.55:479][ 62]LogBlueprint: Error: [AssetLog] C:\Users\c0999686\Documents\GitHub\screamy-creamy\GameJameCream\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Can't connect pins  Out Actors  and  Target Array generated from expanding For Each Loop : Array of Time Extenders BP Object References is not compatible with Array of Gnome Pickup BP Object References.
+[2024.01.27-14.01.55:479][ 62]LogBlueprint: Error: [AssetLog] C:\Users\c0999686\Documents\GitHub\screamy-creamy\GameJameCream\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Invalid pin connection from ' Out Actors ' to ' Target Array generated from expanding For Each Loop '. You may have changed the type after the connections were made.
+[2024.01.27-14.01.55:480][ 62]LogBlueprint: Error: [AssetLog] C:\Users\c0999686\Documents\GitHub\screamy-creamy\GameJameCream\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Can't connect pins  Target Array generated from expanding For Each Loop  and  Out Actors : Array of Gnome Pickup BP Object References is not compatible with Array of Time Extenders BP Object References.
+[2024.01.27-14.01.55:485][ 62]LogBlueprint: Error: [AssetLog] C:\Users\c0999686\Documents\GitHub\screamy-creamy\GameJameCream\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] The current value of the ' Array generated from expanding Get (a copy) ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2024.01.27-14.01.55:581][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.27-14.01.57:346][246]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.27-14.01.57:366][246]LogBlueprint: Error: [AssetLog] C:\Users\c0999686\Documents\GitHub\screamy-creamy\GameJameCream\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Invalid pin connection from  Array  and  Out Actors : Array of Gnome Pickup BP Object References is not compatible with Array of Time Extenders BP Object References. (You may have changed the type after the connections were made)
+[2024.01.27-14.01.57:371][246]LogBlueprint: Error: [AssetLog] C:\Users\c0999686\Documents\GitHub\screamy-creamy\GameJameCream\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Gnome Pickup BP Object References is not compatible with Array of Time Extenders BP Object References.' at  Get (a copy) generated from expanding For Each Loop
+[2024.01.27-14.01.57:372][246]LogBlueprint: Error: [AssetLog] C:\Users\c0999686\Documents\GitHub\screamy-creamy\GameJameCream\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Can't connect pins  Out Actors  and  Target Array generated from expanding For Each Loop : Array of Time Extenders BP Object References is not compatible with Array of Gnome Pickup BP Object References.
+[2024.01.27-14.01.57:372][246]LogBlueprint: Error: [AssetLog] C:\Users\c0999686\Documents\GitHub\screamy-creamy\GameJameCream\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Invalid pin connection from ' Out Actors ' to ' Target Array generated from expanding For Each Loop '. You may have changed the type after the connections were made.
+[2024.01.27-14.01.57:373][246]LogBlueprint: Error: [AssetLog] C:\Users\c0999686\Documents\GitHub\screamy-creamy\GameJameCream\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Can't connect pins  Target Array generated from expanding For Each Loop  and  Out Actors : Array of Gnome Pickup BP Object References is not compatible with Array of Time Extenders BP Object References.
+[2024.01.27-14.01.57:377][246]LogBlueprint: Error: [AssetLog] C:\Users\c0999686\Documents\GitHub\screamy-creamy\GameJameCream\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] The current value of the ' Array generated from expanding Get (a copy) ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2024.01.27-14.01.57:427][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.01.27-14.02.20:044][678]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.27-14.02.20:128][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.01.27-14.05.37:575][ 82]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyStuff/Blueprints/GnomePickup_BP.GnomePickup_BP
+[2024.01.27-14.05.37:575][ 82]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-14.05.37:575][ 82]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-14.05.42:062][588]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.27-14.07.27:538][923]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.17.92:55800, Sequence=0
+[2024.01.27-14.07.56:589][ 49]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.27-14.07.56:686][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.27-14.08.04:049][839]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyStuff/Blueprints/Time_Extenders_BP.Time_Extenders_BP
+[2024.01.27-14.08.04:049][839]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-14.08.04:049][839]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-14.08.04:132][839]LogViewport: Scene viewport resized to 1141x902, mode Windowed.
+[2024.01.27-14.08.04:167][840]LogViewport: Scene viewport resized to 1141x886, mode Windowed.
+[2024.01.27-14.08.04:232][841]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.27-14.09.09:397][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.27-14.09.09:400][887]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JD/VLSOHH9EOU092WUP9G2R3X_Auto0
+[2024.01.27-14.09.09:400][887]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/VLSOHH9EOU092WUP9G2R3X_Auto0CB0696A145450B632C16429D5C71BD56.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JD/VLSOHH9EOU092WUP9G2R3X_Auto0.uasset'
+[2024.01.27-14.09.09:401][887]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.027
+[2024.01.27-14.09.09:401][887]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2024.01.27-14.09.09:402][887]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.01.27-14.09.09:426][887]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.01.27-14.09.09:426][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.01.27-14.09.09:451][887]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto0
+[2024.01.27-14.09.09:452][887]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/BP_FirstPersonCharacter_Auto0B8ECA9924EE14DB390C81E8CAB873C0F.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto0.uasset'
+[2024.01.27-14.09.09:453][887]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/Blueprints/Time_Extenders_BP] ([2] browsable assets)...
+[2024.01.27-14.09.09:453][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Blueprints/Time_Extenders_BP]
+[2024.01.27-14.09.09:455][887]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/Blueprints/Time_Extenders_BP_Auto0
+[2024.01.27-14.09.09:455][887]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Time_Extenders_BP_Auto04B7E21C44D5D41B515CD7C9BC163FFCC.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/MyStuff/Blueprints/Time_Extenders_BP_Auto0.uasset'
+[2024.01.27-14.09.09:456][887]LogFileHelpers: Auto-saving content packages took 0.055
+[2024.01.27-14.09.15:261][489]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.17.92:55800, Sequence=0
+[2024.01.27-14.09.15:261][489]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.17.92:55800, Sequence=0
+[2024.01.27-14.09.49:898][525]BlueprintLog: New page: Compile Time_Extenders_BP
+[2024.01.27-14.09.50:024][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.01.27-14.10.11:168][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.01.27-14.10.11:172][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.10.11:208][907]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/YF/FHCA9FNOIV1ALG19YHF37C
+[2024.01.27-14.10.11:209][907]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/FHCA9FNOIV1ALG19YHF37CB4639EA6486FA15E46B5DABE45388514.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/YF/FHCA9FNOIV1ALG19YHF37C.uasset'
+[2024.01.27-14.10.11:210][907]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JD/VLSOHH9EOU092WUP9G2R3X
+[2024.01.27-14.10.11:211][907]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/VLSOHH9EOU092WUP9G2R3XF4420EAA431B5617E84AF9A0066209BD.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JD/VLSOHH9EOU092WUP9G2R3X.uasset'
+[2024.01.27-14.10.11:214][907]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/C2/O2RLJWBAIWQ7MV67YG8CYB
+[2024.01.27-14.10.11:215][907]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/O2RLJWBAIWQ7MV67YG8CYBE3B324F846BF4DE0CAB2B0AA44D9B2AD.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/C2/O2RLJWBAIWQ7MV67YG8CYB.uasset'
+[2024.01.27-14.10.11:217][907]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/1U/RNKRYTA05L60GJ4J6KJ401
+[2024.01.27-14.10.11:217][907]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/RNKRYTA05L60GJ4J6KJ4011F984B28416047A86FF56F946CB2B969.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/1U/RNKRYTA05L60GJ4J6KJ401.uasset'
+[2024.01.27-14.10.11:219][907]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/HP/044XQSEQDUOZ1AW7X2RXMW
+[2024.01.27-14.10.11:220][907]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/044XQSEQDUOZ1AW7X2RXMWA5F524544AEB7CBAC8925D93821B0991.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/HP/044XQSEQDUOZ1AW7X2RXMW.uasset'
+[2024.01.27-14.10.11:267][907]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.27-14.10.11:267][907]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/BP_FirstPersonCharacterC3A915E6485C65A1F082A99884269E49.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.27-14.10.11:268][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Blueprints/NPCThings" FILE="C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Blueprints/NPCThings.uasset" SILENT=true
+[2024.01.27-14.10.11:274][907]LogSavePackage: Moving output files for package: /Game/MyStuff/Blueprints/NPCThings
+[2024.01.27-14.10.11:275][907]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/NPCThings562518AB40C67FF53E4E8BBA69D2C2E8.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Blueprints/NPCThings.uasset'
+[2024.01.27-14.10.11:291][907]LogSavePackage: Moving output files for package: /Game/MyStuff/Materials/Human_Skins/survivorFemaleA
+[2024.01.27-14.10.11:291][907]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/survivorFemaleA3BB4C454467C6B0299DD0DBCEFB290F1.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Materials/Human_Skins/survivorFemaleA.uasset'
+[2024.01.27-14.10.11:309][907]LogSavePackage: Moving output files for package: /Game/MyStuff/Materials/Human_Skins/survivorMaleB
+[2024.01.27-14.10.11:309][907]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/survivorMaleB9ADFBF214B8B4DAE90586080ACE7B690.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Materials/Human_Skins/survivorMaleB.uasset'
+[2024.01.27-14.10.11:323][907]LogSavePackage: Moving output files for package: /Game/MyStuff/Materials/Human_Skins/zombieA
+[2024.01.27-14.10.11:323][907]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/zombieA364B53A9421B64E11DE3A5B901C8390E.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Materials/Human_Skins/zombieA.uasset'
+[2024.01.27-14.10.11:338][907]LogSavePackage: Moving output files for package: /Game/MyStuff/Materials/Human_Skins/zombieC
+[2024.01.27-14.10.11:338][907]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/zombieCBC8BCB70419C0337136B3F992B935927.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Materials/Human_Skins/zombieC.uasset'
+[2024.01.27-14.10.11:340][907]LogSavePackage: Moving output files for package: /Game/MyStuff/Materials/Human_Skins/survivorFemaleA_Mat
+[2024.01.27-14.10.11:340][907]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/survivorFemaleA_Mat1D5EA2D8420FE8678C41DFB9E7150E70.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Materials/Human_Skins/survivorFemaleA_Mat.uasset'
+[2024.01.27-14.10.11:342][907]LogSavePackage: Moving output files for package: /Game/MyStuff/Materials/Human_Skins/survivorMaleB_Mat
+[2024.01.27-14.10.11:342][907]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/survivorMaleB_Mat7C31116D43B5FABD0D11AE9548AC263F.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Materials/Human_Skins/survivorMaleB_Mat.uasset'
+[2024.01.27-14.10.11:344][907]LogSavePackage: Moving output files for package: /Game/MyStuff/Materials/Human_Skins/zombieA_Mat
+[2024.01.27-14.10.11:344][907]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/zombieA_Mat47E612884BD133916F30A5BB11703AC0.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Materials/Human_Skins/zombieA_Mat.uasset'
+[2024.01.27-14.10.11:346][907]LogSavePackage: Moving output files for package: /Game/MyStuff/Materials/Human_Skins/zombieC_Mat
+[2024.01.27-14.10.11:346][907]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/zombieC_Mat1631CAE74776DAC08AD5B5B5062DC00F.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Materials/Human_Skins/zombieC_Mat.uasset'
+[2024.01.27-14.10.11:350][907]LogSavePackage: Moving output files for package: /Game/MyStuff/Blueprints/Time_Extenders_BP
+[2024.01.27-14.10.11:350][907]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Time_Extenders_BP9345218443A189F87AFF7E8F30C8FC0E.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Blueprints/Time_Extenders_BP.uasset'
+[2024.01.27-14.10.11:361][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 14.3 sec)
+[2024.01.27-14.10.11:370][907]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.27-14.10.11:370][907]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.27-14.10.11:370][907]LogContentValidation: Display: Validating /Game/MyStuff/Blueprints/GnomePickup_BP.GnomePickup_BP_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GnomePickup_BP_C_UAID_30D042E91E3654D301_1801667759
+[2024.01.27-14.10.11:370][907]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyStuff/Blueprints/NPCThings.NPCThings
+[2024.01.27-14.10.11:370][907]LogContentValidation: Display: Validating /Game/MyStuff/Blueprints/NPCThings.NPCThings_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NPCThings_C_UAID_30D042E9208693D301_1100075858
+[2024.01.27-14.10.11:370][907]LogContentValidation: Display: Validating /Game/MyStuff/Blueprints/NPCThings.NPCThings_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NPCThings_C_UAID_30D042E9208693D301_1099170857
+[2024.01.27-14.10.11:370][907]LogContentValidation: Display: Validating /Game/MyStuff/Blueprints/NPCThings.NPCThings_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NPCThings_C_UAID_30D042E9208693D301_1098012856
+[2024.01.27-14.10.11:370][907]LogContentValidation: Display: Validating /Game/MyStuff/Blueprints/NPCThings.NPCThings_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NPCThings_C_UAID_30D042E920868FD301_1434823147
+[2024.01.27-14.10.11:370][907]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MyStuff/Materials/Human_Skins/zombieC_Mat.zombieC_Mat
+[2024.01.27-14.10.11:370][907]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MyStuff/Materials/Human_Skins/zombieA_Mat.zombieA_Mat
+[2024.01.27-14.10.11:370][907]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MyStuff/Materials/Human_Skins/survivorMaleB_Mat.survivorMaleB_Mat
+[2024.01.27-14.10.11:370][907]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MyStuff/Materials/Human_Skins/survivorFemaleA_Mat.survivorFemaleA_Mat
+[2024.01.27-14.10.11:370][907]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MyStuff/Materials/Human_Skins/zombieC.zombieC
+[2024.01.27-14.10.11:370][907]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MyStuff/Materials/Human_Skins/zombieA.zombieA
+[2024.01.27-14.10.11:370][907]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MyStuff/Materials/Human_Skins/survivorMaleB.survivorMaleB
+[2024.01.27-14.10.11:370][907]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MyStuff/Materials/Human_Skins/survivorFemaleA.survivorFemaleA
+[2024.01.27-14.10.11:370][907]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyStuff/Blueprints/Time_Extenders_BP.Time_Extenders_BP
+[2024.01.27-14.11.03:550][917]BlueprintLog: New page: Compile Time_Extenders_BP
+[2024.01.27-14.11.03:588][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.01.27-14.11.10:025][672]BlueprintLog: New page: Compile Time_Extenders_BP
+[2024.01.27-14.11.10:065][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.01.27-14.11.49:723][158]LogStaticMesh: Display: Building static mesh SM_Ball_01...
+[2024.01.27-14.11.49:742][158]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/AssetsvilleTown/Meshes/InteriorProps/House/SM_Ball_01) ...
+[2024.01.27-14.11.49:872][158]LogStaticMesh: Built static mesh [0.15s] /Game/AssetsvilleTown/Meshes/InteriorProps/House/SM_Ball_01.SM_Ball_01
+[2024.01.27-14.11.49:884][158]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: ================================================
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: Total job queries 4,257, among them cache hits 63 (1.48%)
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: Tracking 4,159 distinct input hashes that result in 2,575 distinct outputs (61.91%)
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: RAM used: 73.23 MiB of 1.60 GiB budget. Usage: 4.47%
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: Shaders Compiled: 4,159
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: Jobs assigned 4,164, completed 4,159 (99.88%)
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: Average time worker was idle: 80.56 s
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: Time job spent in pending queue: average 70.32 s, longest 181.04 s
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: Job execution time: average 3.85 s, max 10.63 s
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: Job life time (pending + execution): average 74.26 s, max 183.76
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 263.66 s
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: Jobs were issued in 802 batches (only local compilation was used), average 5.19 jobs/batch
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: Average processing rate: 15.77 jobs/sec
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: Total thread time: 1,833.902 s
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: Total thread preprocess time: 59.114 s
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: Percentage time preprocessing: 3.22%
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: Effective parallelization: 6.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.27 sec, max 3.99 sec, min 2.21 sec)
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.20 sec, max 5.69 sec, min 1.13 sec)
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.27 sec, max 1.89 sec, min 0.68 sec)
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 1.21 sec, max 1.21 sec, min 1.21 sec)
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 1.14 sec, max 1.14 sec, min 1.14 sec)
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display:                                             FDeferredLightPS - 8.51% of total time (compiled  150 times, average 1.04 sec, max 1.38 sec, min 0.79 sec)
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.39% of total time (compiled   96 times, average 0.84 sec, max 1.32 sec, min 0.57 sec)
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.67% of total time (compiled   96 times, average 0.70 sec, max 0.96 sec, min 0.38 sec)
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 3.64% of total time (compiled  128 times, average 0.52 sec, max 0.78 sec, min 0.31 sec)
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 3.50% of total time (compiled  128 times, average 0.50 sec, max 0.65 sec, min 0.37 sec)
+[2024.01.27-14.11.53:855][520]LogShaderCompilers: Display: ================================================
+[2024.01.27-14.12.13:816][718]BlueprintLog: New page: Compile Time_Extenders_BP
+[2024.01.27-14.12.13:858][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.01.27-14.12.17:780][ 31]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/Blueprints/Time_Extenders_BP.Time_Extenders_BP_C
+[2024.01.27-14.12.17:780][ 31]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/Blueprints/Time_Extenders_BP.Time_Extenders_BP_C
+[2024.01.27-14.12.17:781][ 31]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/Blueprints/Time_Extenders_BP.Time_Extenders_BP as actor: Time_Extenders_BP_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Time_Extenders_BP_C_0
+[2024.01.27-14.12.17:782][ 31]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/Blueprints/Time_Extenders_BP.Time_Extenders_BP as actor: Time_Extenders_BP_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Time_Extenders_BP_C_0
+[2024.01.27-14.12.18:052][ 47]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/Blueprints/Time_Extenders_BP.Time_Extenders_BP_C
+[2024.01.27-14.12.18:052][ 47]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/Blueprints/Time_Extenders_BP.Time_Extenders_BP_C
+[2024.01.27-14.12.18:055][ 47]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/Blueprints/Time_Extenders_BP.Time_Extenders_BP as actor: Time_Extenders_BP_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Time_Extenders_BP_C_UAID_30D042E9208694D301_2115461035
+[2024.01.27-14.12.18:056][ 47]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/Blueprints/Time_Extenders_BP.Time_Extenders_BP as actor: Time_Extenders_BP_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Time_Extenders_BP_C_UAID_30D042E9208694D301_2115461035
+[2024.01.27-14.12.24:864][679]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.27-14.12.24:869][679]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.27-14.12.24:870][679]LogWorldPartition: Display: GenerateStreaming started...
+[2024.01.27-14.12.24:870][679]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.01.27-14.12.24:870][679]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 384 us)
+[2024.01.27-14.12.24:871][679]LogWorldPartition: Display: GenerateStreaming took 186 us (total: 10 ms)
+[2024.01.27-14.12.24:872][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.27-14.12.24:872][679]PIE: New page: PIE session: FirstPersonMap (27 Jan 2024, 14:12:24)
+[2024.01.27-14.12.24:872][679]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.27-14.12.24:879][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005937s)
+[2024.01.27-14.12.24:879][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005967s)
+[2024.01.27-14.12.24:879][679]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-14.12.24:879][679]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-14.12.24:879][679]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.27-14.12.24:880][679]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.27-14.12.24:880][679]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.27-14.12.24:880][679]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.01.27-14.12.24:881][679]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.27-14.12.24:881][679]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 384 ms)
+[2024.01.27-14.12.24:881][679]LogPlayLevel: PIE: World Init took: (0.002693s)
+[2024.01.27-14.12.24:900][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.01.27-14.12.24:903][679]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2024.01.27-14.12.24:903][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-14.12.24:903][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-14.12.24:903][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-14.12.24:903][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-14.12.24:903][679]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.27-14.12.24:903][679]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.27-14.12.24:903][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.27-14.12.24:903][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-14.12.24:904][679]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-14.12.24:904][679]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-14.12.24:904][679]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-14.12.24:906][679]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-14.12.24:913][679]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.27-14.12.24:913][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-14.12.24:913][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-14.12.24:913][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-14.12.24:914][679]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2024.01.27-14.12.24:914][679]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2024.01.27-14.12.24:915][679]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2024.01.27-14.12.24:915][679]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2024.01.27-14.12.24:915][679]LogInit: FAudioDevice initialized with ID 57.
+[2024.01.27-14.12.24:915][679]LogAudio: Display: Audio Device (ID: 57) registered with world 'FirstPersonMap'.
+[2024.01.27-14.12.24:915][679]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 57
+[2024.01.27-14.12.24:976][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-14.12.24:976][679]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.27-14.12.24:979][679]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.27-14.12.24
+[2024.01.27-14.12.24:979][679]LogWorld: Bringing up level for play took: 0.003484
+[2024.01.27-14.12.24:981][679]LogOnline: OSS: Created online subsystem instance for: :Context_93
+[2024.01.27-14.12.24:986][679]PIE: Server logged in
+[2024.01.27-14.12.24:989][679]PIE: Play in editor total start time 0.119 seconds.
+[2024.01.27-14.12.24:992][679]LogMaterial: Display: Material /Game/MyStuff/Materials/Human_Skins/zombieC_Mat.zombieC_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.27-14.12.25:056][679]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.25:057][679]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.25:057][679]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.25:058][679]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.25:058][679]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.25:058][679]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.25:059][679]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.25:059][679]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.25:116][679]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.01.27-14.12.25:239][680]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.25:240][680]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.25:240][680]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.25:240][680]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.25:241][680]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.25:241][680]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.25:242][680]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.25:242][680]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.27:283][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.34:833][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-14.12.34:833][489]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.27-14.12.34:835][489]LogSlate: Window 'GameJameCream Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.01.27-14.12.34:843][489]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.12.34:844][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.12.34:844][489]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.27-14.12.34:847][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-14.12.34:852][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.12.34:872][489]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.27-14.12.34:873][489]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2024.01.27-14.12.34:873][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2024.01.27-14.12.34:874][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2024.01.27-14.12.34:880][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.01.27-14.12.34:941][490]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2024.01.27-14.12.37:751][751]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.27-14.12.37:755][751]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.27-14.12.37:756][751]LogWorldPartition: Display: GenerateStreaming started...
+[2024.01.27-14.12.37:756][751]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.01.27-14.12.37:756][751]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 390 us)
+[2024.01.27-14.12.37:757][751]LogWorldPartition: Display: GenerateStreaming took 189 us (total: 10 ms)
+[2024.01.27-14.12.37:757][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.27-14.12.37:757][751]PIE: New page: PIE session: FirstPersonMap (27 Jan 2024, 14:12:37)
+[2024.01.27-14.12.37:757][751]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.27-14.12.37:763][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005780s)
+[2024.01.27-14.12.37:763][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005815s)
+[2024.01.27-14.12.37:763][751]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-14.12.37:763][751]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-14.12.37:763][751]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.27-14.12.37:764][751]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.27-14.12.37:764][751]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.27-14.12.37:764][751]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.01.27-14.12.37:765][751]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.27-14.12.37:765][751]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 386 ms)
+[2024.01.27-14.12.37:765][751]LogPlayLevel: PIE: World Init took: (0.002465s)
+[2024.01.27-14.12.37:785][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.01.27-14.12.37:788][751]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2024.01.27-14.12.37:788][751]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-14.12.37:788][751]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-14.12.37:788][751]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-14.12.37:788][751]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-14.12.37:788][751]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.27-14.12.37:788][751]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.27-14.12.37:788][751]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.27-14.12.37:788][751]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-14.12.37:789][751]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-14.12.37:789][751]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-14.12.37:789][751]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-14.12.37:790][751]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-14.12.37:798][751]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.27-14.12.37:798][751]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-14.12.37:798][751]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-14.12.37:798][751]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-14.12.37:798][751]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2024.01.27-14.12.37:798][751]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2024.01.27-14.12.37:800][751]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2024.01.27-14.12.37:800][751]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2024.01.27-14.12.37:800][751]LogInit: FAudioDevice initialized with ID 58.
+[2024.01.27-14.12.37:800][751]LogAudio: Display: Audio Device (ID: 58) registered with world 'FirstPersonMap'.
+[2024.01.27-14.12.37:800][751]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2024.01.27-14.12.37:841][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-14.12.37:841][751]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.27-14.12.37:844][751]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.27-14.12.37
+[2024.01.27-14.12.37:845][751]LogWorld: Bringing up level for play took: 0.003316
+[2024.01.27-14.12.37:847][751]LogOnline: OSS: Created online subsystem instance for: :Context_94
+[2024.01.27-14.12.37:852][751]PIE: Server logged in
+[2024.01.27-14.12.37:854][751]PIE: Play in editor total start time 0.099 seconds.
+[2024.01.27-14.12.37:857][751]LogMaterial: Display: Material /Game/MyStuff/Materials/Human_Skins/survivorMaleB_Mat.survivorMaleB_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.27-14.12.37:938][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.37:939][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.37:939][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.37:939][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.37:940][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.37:940][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.37:940][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.37:941][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.37:946][751]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.01.27-14.12.38:012][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.38:012][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.38:013][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.38:013][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.38:013][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.38:014][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.38:015][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.38:015][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.39:446][827]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.12.40:273][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-14.12.40:273][873]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.27-14.12.40:275][873]LogSlate: Window 'GameJameCream Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.01.27-14.12.40:282][873]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.12.40:283][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.12.40:283][873]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.27-14.12.40:288][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-14.12.40:293][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.12.40:322][873]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2024.01.27-14.12.40:322][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2024.01.27-14.12.40:323][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2024.01.27-14.12.40:330][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.01.27-14.12.40:400][874]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2024.01.27-14.13.18:055][481]BlueprintLog: New page: Compile Time_Extenders_BP
+[2024.01.27-14.13.18:197][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.01.27-14.13.20:304][648]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.27-14.13.20:310][648]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.27-14.13.20:311][648]LogWorldPartition: Display: GenerateStreaming started...
+[2024.01.27-14.13.20:311][648]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.01.27-14.13.20:311][648]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 395 us)
+[2024.01.27-14.13.20:311][648]LogWorldPartition: Display: GenerateStreaming took 228 us (total: 10 ms)
+[2024.01.27-14.13.20:312][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.27-14.13.20:312][648]PIE: New page: PIE session: FirstPersonMap (27 Jan 2024, 14:13:20)
+[2024.01.27-14.13.20:313][648]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.27-14.13.20:318][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005779s)
+[2024.01.27-14.13.20:318][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005821s)
+[2024.01.27-14.13.20:318][648]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-14.13.20:318][648]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-14.13.20:318][648]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.27-14.13.20:319][648]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.27-14.13.20:319][648]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.27-14.13.20:319][648]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.01.27-14.13.20:320][648]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.27-14.13.20:320][648]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 387 ms)
+[2024.01.27-14.13.20:320][648]LogPlayLevel: PIE: World Init took: (0.002936s)
+[2024.01.27-14.13.20:340][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.01.27-14.13.20:342][648]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2024.01.27-14.13.20:342][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-14.13.20:342][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-14.13.20:342][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-14.13.20:342][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-14.13.20:342][648]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.27-14.13.20:342][648]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.27-14.13.20:342][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.27-14.13.20:342][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-14.13.20:343][648]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-14.13.20:343][648]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-14.13.20:343][648]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-14.13.20:345][648]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-14.13.20:352][648]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.27-14.13.20:352][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-14.13.20:352][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-14.13.20:352][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-14.13.20:353][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2024.01.27-14.13.20:353][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2024.01.27-14.13.20:355][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2024.01.27-14.13.20:355][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2024.01.27-14.13.20:355][648]LogInit: FAudioDevice initialized with ID 59.
+[2024.01.27-14.13.20:355][648]LogAudio: Display: Audio Device (ID: 59) registered with world 'FirstPersonMap'.
+[2024.01.27-14.13.20:355][648]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2024.01.27-14.13.20:407][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-14.13.20:407][648]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.27-14.13.20:410][648]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.27-14.13.20
+[2024.01.27-14.13.20:411][648]LogWorld: Bringing up level for play took: 0.003218
+[2024.01.27-14.13.20:412][648]LogOnline: OSS: Created online subsystem instance for: :Context_95
+[2024.01.27-14.13.20:418][648]PIE: Server logged in
+[2024.01.27-14.13.20:420][648]PIE: Play in editor total start time 0.11 seconds.
+[2024.01.27-14.13.20:455][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.13.20:455][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.13.20:456][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.13.20:456][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.13.20:456][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.13.20:457][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.13.20:457][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.13.20:457][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.13.20:462][648]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.01.27-14.13.20:511][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.13.20:512][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.13.20:512][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.13.20:512][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.13.20:512][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.13.20:513][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.13.20:513][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.13.20:513][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.13.21:952][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-14.13.30:324][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-14.13.30:324][457]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.27-14.13.30:325][457]LogSlate: Window 'GameJameCream Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.01.27-14.13.30:335][457]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.13.30:336][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.13.30:336][457]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.27-14.13.30:345][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-14.13.30:349][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.13.30:369][457]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.27-14.13.30:370][457]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2024.01.27-14.13.30:370][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2024.01.27-14.13.30:371][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2024.01.27-14.13.30:377][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.27-14.13.30:446][458]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2024.01.27-14.15.16:368][442]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.27-14.15.16:415][442]LogBlueprint: Error: [AssetLog] C:\Users\c0999686\Documents\GitHub\screamy-creamy\GameJameCream\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] The property associated with  Extender Mesh  could not be found in '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C'
+[2024.01.27-14.15.16:464][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.01.27-14.18.09:223][663]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.27-14.18.09:316][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
