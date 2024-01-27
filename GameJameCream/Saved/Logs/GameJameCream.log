@@ -10201,3 +10201,172 @@ Make sure 'NPCThings_C' has been compiled for  Get CharacterSkinArray
 [2024.01.27-14.15.16:464][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
 [2024.01.27-14.18.09:223][663]BlueprintLog: New page: Compile BP_FirstPersonCharacter
 [2024.01.27-14.18.09:316][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.01.27-14.19.32:154][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.01.27-14.19.32:158][625]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JD/VLSOHH9EOU092WUP9G2R3X_Auto1
+[2024.01.27-14.19.32:158][625]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/VLSOHH9EOU092WUP9G2R3X_Auto1716BAF284BA99EEDDA9266B7093053F8.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JD/VLSOHH9EOU092WUP9G2R3X_Auto1.uasset'
+[2024.01.27-14.19.32:165][625]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/U8/G70TKS86IOWXVVF8H1APYF_Auto1
+[2024.01.27-14.19.32:165][625]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/G70TKS86IOWXVVF8H1APYF_Auto11FC211A34941D288A0B39DB3468AFA6E.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/U8/G70TKS86IOWXVVF8H1APYF_Auto1.uasset'
+[2024.01.27-14.19.32:166][625]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.038
+[2024.01.27-14.19.32:167][625]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2024.01.27-14.19.32:167][625]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.01.27-14.19.32:212][625]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.01.27-14.19.32:212][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.01.27-14.19.32:240][625]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1
+[2024.01.27-14.19.32:240][625]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/BP_FirstPersonCharacter_Auto116A2FE194F4BA2D0D272E99867C9D345.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1.uasset'
+[2024.01.27-14.19.32:242][625]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/Materials/Human_Skins/survivorMaleB_Mat] ([1] browsable assets)...
+[2024.01.27-14.19.32:242][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Materials/Human_Skins/survivorMaleB_Mat]
+[2024.01.27-14.19.32:243][625]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/Materials/Human_Skins/survivorMaleB_Mat_Auto1
+[2024.01.27-14.19.32:243][625]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/survivorMaleB_Mat_Auto18A3E04CA43D81875392EDB9206813B75.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/MyStuff/Materials/Human_Skins/survivorMaleB_Mat_Auto1.uasset'
+[2024.01.27-14.19.32:243][625]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/Materials/Human_Skins/zombieC_Mat] ([1] browsable assets)...
+[2024.01.27-14.19.32:243][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Materials/Human_Skins/zombieC_Mat]
+[2024.01.27-14.19.32:244][625]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/Materials/Human_Skins/zombieC_Mat_Auto1
+[2024.01.27-14.19.32:244][625]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/zombieC_Mat_Auto19B1D6A9F496D6C6F04C9039E4FF3C616.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/MyStuff/Materials/Human_Skins/zombieC_Mat_Auto1.uasset'
+[2024.01.27-14.19.32:245][625]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyStuff/Blueprints/Time_Extenders_BP] ([2] browsable assets)...
+[2024.01.27-14.19.32:274][625]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyStuff/Blueprints/Time_Extenders_BP.Time_Extenders_BP]
+[2024.01.27-14.19.32:274][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Blueprints/Time_Extenders_BP]
+[2024.01.27-14.19.32:278][625]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/Blueprints/Time_Extenders_BP_Auto1
+[2024.01.27-14.19.32:278][625]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Time_Extenders_BP_Auto11A435426414232C7D1B9DB9F59150D47.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Autosaves/Game/MyStuff/Blueprints/Time_Extenders_BP_Auto1.uasset'
+[2024.01.27-14.19.32:279][625]LogFileHelpers: Auto-saving content packages took 0.112
+[2024.01.27-14.20.05:936][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.01.27-14.20.05:939][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-14.20.05:998][784]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JD/VLSOHH9EOU092WUP9G2R3X
+[2024.01.27-14.20.05:998][784]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/VLSOHH9EOU092WUP9G2R3X8127836A44BCF51A664E36B7A266DD98.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JD/VLSOHH9EOU092WUP9G2R3X.uasset'
+[2024.01.27-14.20.06:000][784]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/U8/G70TKS86IOWXVVF8H1APYF
+[2024.01.27-14.20.06:000][784]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/G70TKS86IOWXVVF8H1APYF46252048456D4DA461094CAC11D22560.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/U8/G70TKS86IOWXVVF8H1APYF.uasset'
+[2024.01.27-14.20.06:027][784]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.27-14.20.06:028][784]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/BP_FirstPersonCharacter315AE4D8472EC6EA55A54C95C72C9623.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.27-14.20.06:030][784]LogSavePackage: Moving output files for package: /Game/MyStuff/Materials/Human_Skins/survivorMaleB_Mat
+[2024.01.27-14.20.06:030][784]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/survivorMaleB_Mat47D1D9EB43AF050AB617C6B1CE7469A3.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Materials/Human_Skins/survivorMaleB_Mat.uasset'
+[2024.01.27-14.20.06:032][784]LogSavePackage: Moving output files for package: /Game/MyStuff/Materials/Human_Skins/zombieC_Mat
+[2024.01.27-14.20.06:032][784]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/zombieC_Mat7AD884EC48E10383DADB73AC2807A8F8.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Materials/Human_Skins/zombieC_Mat.uasset'
+[2024.01.27-14.20.06:037][784]LogSavePackage: Moving output files for package: /Game/MyStuff/Blueprints/Time_Extenders_BP
+[2024.01.27-14.20.06:038][784]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Saved/Time_Extenders_BP5F23062646A8B677D28CC1A9BBB9F7D8.tmp' to 'C:/Users/c0999686/Documents/GitHub/screamy-creamy/GameJameCream/Content/MyStuff/Blueprints/Time_Extenders_BP.uasset'
+[2024.01.27-14.20.06:048][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 14.4 sec)
+[2024.01.27-14.20.06:053][784]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.27-14.20.06:053][784]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.27-14.20.06:053][784]LogContentValidation: Display: Validating /Game/MyStuff/Blueprints/GnomePickup_BP.GnomePickup_BP_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GnomePickup_BP_C_UAID_30D042E91E3654D301_1801667759
+[2024.01.27-14.20.06:053][784]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MyStuff/Materials/Human_Skins/zombieC_Mat.zombieC_Mat
+[2024.01.27-14.20.06:053][784]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MyStuff/Materials/Human_Skins/survivorMaleB_Mat.survivorMaleB_Mat
+[2024.01.27-14.20.06:053][784]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyStuff/Blueprints/Time_Extenders_BP.Time_Extenders_BP
+[2024.01.27-14.20.06:053][784]LogContentValidation: Display: Validating /Game/MyStuff/Blueprints/Time_Extenders_BP.Time_Extenders_BP_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Time_Extenders_BP_C_UAID_30D042E9208694D301_2115461035
+[2024.01.27-14.20.07:036][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.27-14.20.07:041][855]LogStall: Shutdown...
+[2024.01.27-14.20.07:044][855]LogStall: Shutdown complete.
+[2024.01.27-14.20.07:078][855]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.07:078][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.20.07:204][855]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.27-14.20.07:204][855]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.07:204][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.20.07:255][855]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.27-14.20.07:255][855]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.07:255][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.20.07:307][855]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.07:307][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.20.07:332][855]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.27-14.20.07:332][855]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.07:332][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.20.07:381][855]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.27-14.20.07:381][855]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.07:381][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.20.07:430][855]LogSlate: Window 'Time_Extenders_BP' being destroyed
+[2024.01.27-14.20.07:445][855]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.27-14.20.07:445][855]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.07:445][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.20.07:512][855]LogSlate: Window 'GameJameCream - Unreal Editor' being destroyed
+[2024.01.27-14.20.07:577][856]Cmd: QUIT_EDITOR
+[2024.01.27-14.20.07:577][856]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.01.27-14.20.07:581][856]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.01.27-14.20.07:581][856]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.01.27-14.20.07:581][856]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.01.27-14.20.07:582][856]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.07:582][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-14.20.07:582][856]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.27-14.20.07:582][856]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.01.27-14.20.07:582][856]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.01.27-14.20.08:682][856]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.01.27-14.20.08:682][856]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.01.27-14.20.08:682][856]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2024.01.27-14.20.08:682][856]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.01.27-14.20.08:682][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.01.27-14.20.08:683][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.01.27-14.20.08:687][856]LogAudio: Display: Audio Device Manager Shutdown
+[2024.01.27-14.20.08:690][856]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.01.27-14.20.08:691][856]LogExit: Preparing to exit.
+[2024.01.27-14.20.08:767][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.01.27-14.20.08:786][856]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.27-14.20.08:786][856]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.27-14.20.08:786][856]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.27-14.20.08:786][856]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.27-14.20.08:786][856]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.27-14.20.08:786][856]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.27-14.20.08:786][856]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.27-14.20.08:786][856]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.27-14.20.08:786][856]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.27-14.20.08:786][856]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.27-14.20.08:786][856]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.27-14.20.08:786][856]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.27-14.20.08:786][856]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.27-14.20.08:786][856]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.27-14.20.08:786][856]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.27-14.20.08:786][856]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.27-14.20.08:786][856]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.27-14.20.08:786][856]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.27-14.20.08:786][856]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.01.27-14.20.09:689][856]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:691][856]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:694][856]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:696][856]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:698][856]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:701][856]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:704][856]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:707][856]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:709][856]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:711][856]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:714][856]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:716][856]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:719][856]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:721][856]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:723][856]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:726][856]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:728][856]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:730][856]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:732][856]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:734][856]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:737][856]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:739][856]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-14.20.09:794][856]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.01.27-14.20.09:800][856]LogExit: Editor shut down
+[2024.01.27-14.20.09:802][856]LogExit: Transaction tracking system shut down
+[2024.01.27-14.20.09:918][856]LogExit: Object subsystem successfully closed.
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: ================================================
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: Total job queries 4,317, among them cache hits 63 (1.46%)
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: Tracking 4,224 distinct input hashes that result in 2,578 distinct outputs (61.03%)
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: RAM used: 74.92 MiB of 1.60 GiB budget. Usage: 4.57%
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: Shaders Compiled: 4,224
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: Jobs assigned 4,224, completed 4,224 (100.00%)
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: Average time worker was idle: 79.38 s
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: Time job spent in pending queue: average 69.32 s, longest 181.04 s
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: Job execution time: average 3.83 s, max 10.63 s
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: Job life time (pending + execution): average 73.15 s, max 183.76
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 269.19 s
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: Jobs were issued in 818 batches (only local compilation was used), average 5.16 jobs/batch
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: Average processing rate: 15.69 jobs/sec
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: Total thread time: 1,868.496 s
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: Total thread preprocess time: 60.052 s
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: Percentage time preprocessing: 3.21%
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: Effective parallelization: 6.94 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.27 sec, max 3.99 sec, min 2.21 sec)
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.20 sec, max 5.69 sec, min 1.13 sec)
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.27 sec, max 1.89 sec, min 0.68 sec)
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 1.21 sec, max 1.21 sec, min 1.21 sec)
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 1.14 sec, max 1.14 sec, min 1.14 sec)
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display:                                             FDeferredLightPS - 8.35% of total time (compiled  150 times, average 1.04 sec, max 1.38 sec, min 0.79 sec)
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.31% of total time (compiled   96 times, average 0.84 sec, max 1.32 sec, min 0.57 sec)
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.60% of total time (compiled   96 times, average 0.70 sec, max 0.96 sec, min 0.38 sec)
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 3.57% of total time (compiled  128 times, average 0.52 sec, max 0.78 sec, min 0.31 sec)
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 3.44% of total time (compiled  128 times, average 0.50 sec, max 0.65 sec, min 0.37 sec)
+[2024.01.27-14.20.09:923][856]LogShaderCompilers: Display: ================================================
